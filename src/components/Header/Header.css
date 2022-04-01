@@ -1,0 +1,15 @@
+nav a{
+    text-decoration: none;
+    color:black;
+    margin:20px;
+    font-weight: 700;
+}
+nav a:hover{
+    color:orange;
+
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
